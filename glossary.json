@@ -1,0 +1,90 @@
+[
+  {
+    "term": "Graph",
+    "definition": "A mathematical representation of a set of objects where some pairs of the objects are connected by links.",
+  },
+  {
+    "term": "Vertex",
+    "definition": "A fundamental unit in a graph, often represented as a point or node.",
+  },
+  {
+    "term": "Edge",
+    "definition": "A connection between two vertices in a graph, representing a relationship between them.",
+  },
+  {
+    "term": "Directed Graph",
+    "definition": "A graph in which edges have a direction, indicating a one-way relationship between vertices.",
+  },
+  {
+    "term": "Undirected Graph",
+    "definition": "A graph in which edges have no direction, representing a two-way relationship between vertices.",
+  },
+  {
+    "term": "Weighted Graph",
+    "definition": "A graph in which each edge is assigned a numerical value, called a weight, representing a cost or distance.",
+  },
+  {
+    "term": "Cycle",
+    "definition": "A closed path in a graph where the first and last vertices are the same.",
+  },
+  {
+    "term": "Tree",
+    "definition": "A connected acyclic undirected graph, or a connected acyclic directed graph.",
+  },
+  {
+    "term": "Adjacency Matrix",
+    "definition": "A square matrix used to represent a finite graph, where the elements indicate whether pairs of vertices are adjacent or not.",
+  },
+  {
+    "term": "Degree",
+    "definition": "The number of edges incident to a vertex in a graph.",
+  },
+  {
+    "term": "Eulerian Graph",
+    "definition": "A graph that contains a cycle that includes every edge exactly once.",
+  },
+  {
+    "term": "Clique",
+    "definition": "A subset of vertices in a graph such that every two distinct vertices in the clique are adjacent.",
+  },
+  {
+    "term": "Connected Graph",
+    "definition": "A graph in which there is a path between every pair of vertices.",
+  },
+  {
+    "term": "Cut Vertex",
+    "definition": "A vertex whose removal increases the number of connected components in a graph.",
+  },
+  {
+    "term": "Cut Edge",
+    "definition": "An edge whose removal increases the number of connected components in a graph.",
+  },
+  {
+    "term": "Dijkstra's Algorithm",
+    "definition": "An algorithm for finding the shortest paths between nodes in a graph.",
+  },
+  {
+    "term": "Bellman-Ford Algorithm",
+    "definition": "An algorithm that finds the shortest paths from a single source vertex to all other vertices in a weighted graph.",
+  },
+  {
+    "term": "Floyd-Warshall Algorithm",
+    "definition": "An algorithm for finding the shortest paths between all pairs of vertices in a weighted graph.",
+  },
+  {
+    "term": "Breadth-First Search (BFS)",
+    "definition": "An algorithm for traversing or searching tree or graph data structures.",
+  },
+  {
+    "term": "Depth-First Search (DFS)",
+    "definition": "An algorithm for traversing or searching tree or graph data structures.",
+  },
+  {
+    "term": "Graph Traversal",
+    "definition": "Visiting all the vertices of a graph in a specific order, typically to explore or search the graph.",
+  },
+  {
+    "term": "Minimum Cut",
+    "definition": "The smallest number of edges that must be removed to disconnect a graph.",
+  }
+]
